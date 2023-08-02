@@ -1,5 +1,5 @@
 ## Opa! Eu sou o Lucas Mateus Silva 
-#### Analista de desenvolvimento junior na BBTS
+#### Analista de desenvolvimento Engesoftware
  <div>
   <a href="https://github.com/lucasmss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
