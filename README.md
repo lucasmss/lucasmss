@@ -1,5 +1,5 @@
 ## Opa! Eu sou o Lucas Mateus Silva 
-#### Analista de desenvolvimento Vega Monitoramento
+#### Analista de desenvolvimento
  <div>
   <a href="https://github.com/lucasmss">
 </div>
@@ -19,11 +19,3 @@
 </div>
   
   ##
-
-<div> 
- <a href="https://discord.gg/lucasmss16#8050" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/lucas-mateus-36a99b191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
